@@ -1,7 +1,7 @@
 # Spring Dev Team Java Styling
 
 ## Installation
-<span style="color:blue">**Set Up the Code style XML file**</span>
+### **Set Up the Code style XML file**
 
 1. Install the checkstyle plugin
 'checkstyle idea'
@@ -16,7 +16,7 @@
 
 2. Go back to your editor main page elect, Select the 'Checkstyle' tab at the bottom, set rules to the checkstyle created.
 
-<span style="color:blue">**Setting the Formatter**</span>
+### **Setting the Formatter**
 
 1. Install the Google Formatter plugin
 'google-java-format'
